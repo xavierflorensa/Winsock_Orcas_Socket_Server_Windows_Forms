@@ -1,0 +1,12 @@
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\bin\Debug\Socket_test1.exe.config
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\bin\Debug\Socket_test1.exe
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\bin\Debug\Socket_test1.pdb
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\bin\Debug\Winsock Orcas.dll
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\obj\Debug\Socket_test1.csproj.AssemblyReference.cache
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\obj\Debug\Socket_test1.Form1.resources
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\obj\Debug\Socket_test1.Properties.Resources.resources
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\obj\Debug\Socket_test1.csproj.GenerateResource.cache
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\obj\Debug\Socket_test1.csproj.CoreCompileInputs.cache
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\obj\Debug\Socket_test1.csproj.CopyComplete
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\obj\Debug\Socket_test1.exe
+C:\Users\xavier.florensa\Documents\Marketing\Producte\Software\Visual Studio\Projects\Socket_test1\obj\Debug\Socket_test1.pdb
